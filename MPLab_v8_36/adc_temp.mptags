@@ -1,0 +1,33 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_PROGRAM_AUTHOR	Darren Hiebert	/dhiebert@users.sourceforge.net/
+!_TAG_PROGRAM_NAME	Exuberant Ctags	//
+!_TAG_PROGRAM_URL	http://ctags.sourceforge.net	/official site/
+!_TAG_PROGRAM_VERSION	5.5.4	//
+!_TAG_REVISION_NAME	MCHPTags	//
+!_TAG_REVISION_VERSION	6.0.1	//
+E::RB3	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	9;"	d	line:9
+LVPDIS	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\main.c	3;"	v	line:3
+RS::RB1	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	7;"	d	line:7
+RW::RB2	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	8;"	d	line:8
+_INCLUDES_H	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\includes.h	2;"	d	line:2
+_LCD4_H	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	2;"	d	line:2
+_XTAL_FREQ::4000000	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\includes.h	5;"	d	line:5
+_XTAL_FREQ::4000000	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	6;"	d	line:6
+hundreds	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\main.c	8;"	l	line:8
+i	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.c	89;"	l	line:89
+lcd_init	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.c	3;"	f	line:3	signature:(void)
+lcd_init	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	12;"	p	line:12	signature:(void)
+lcd_write_byte	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.c	55;"	f	line:55	signature:(unsigned char byte)
+lcd_write_byte	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	13;"	p	line:13	signature:(unsigned char)
+lcd_write_command	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.c	18;"	f	line:18	signature:(unsigned char command)
+lcd_write_command	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	11;"	p	line:11	signature:(unsigned char)
+lcd_write_word	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.c	87;"	f	line:87	signature:(char word[])
+lcd_write_word	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	14;"	p	line:14	signature:(char word[])
+main	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\main.c	4;"	f	line:4
+ones	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\main.c	8;"	l	line:8
+pre	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\main.c	6;"	l	line:6
+result	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\main.c	7;"	l	line:7
+temp	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.h	10;"	v	line:10
+temp_data	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\lcd4.c	21;"	l	line:21
+tens	C:\Users\aswin\Desktop\ashish mathew\pic code\pic_code\main.c	8;"	l	line:8
